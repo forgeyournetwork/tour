@@ -1,7 +1,7 @@
 {
-  "name": "@rc-component/tour",
-  "version": "2.1.0",
-  "description": "React tour Component",
+  "name": "@rc-component/tour-forge",
+  "version": "2.1.1",
+  "description": "React tour Component - Fork for Forge",
   "keywords": [
     "react",
     "react-component",
