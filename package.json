@@ -1,6 +1,6 @@
 {
-  "name": "@erick-forge/tour-forge",
-  "version": "2.2.3",
+  "name": "@forgeyournetwork/tour-forge",
+  "version": "2.2.4",
   "description": "React tour Component - Fork for Forge",
   "keywords": [
     "react",
