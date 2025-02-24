@@ -1,19 +1,19 @@
 {
-  "name": "@rc-component/tour-forge",
-  "version": "2.2.1",
+  "name": "@erick-forge/tour-forge",
+  "version": "2.2.2",
   "description": "React tour Component - Fork for Forge",
   "keywords": [
     "react",
     "react-component",
     "react-tour"
   ],
-  "homepage": "https://github.com/react-component/tour",
+  "homepage": "https://github.com/forgeyournetwork/tour",
   "bugs": {
-    "url": "https://github.com/react-component/tour/issues"
+    "url": "https://github.com/forgeyournetwork/tour/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/tour.git"
+    "url": "git+https://github.com/react-component/tour.git"
   },
   "license": "MIT",
   "author": "wangning4567@163.com",
@@ -72,5 +72,10 @@
   },
   "engines": {
     "node": ">=8.x"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
   }
 }
